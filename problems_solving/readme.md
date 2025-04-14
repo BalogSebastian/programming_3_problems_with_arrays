@@ -6,7 +6,10 @@ Minden feladatot oldjon meg Racketben és Javában is.
    de az új fizetés nem lehet nagyobb mint 100. Azaz 90*0.2 helyett 100 lesz az új fizetés.
    a. Ne használjon mapet.
    b. Használjon mapet.
-
++ feladat: Powerset függvény-t irja meg a reduce segítségével.
+Powerset magyarul hatványhalmaz definicoja.
+powerSet(A)= { X | X részhalmaza A nak }. Példák, ( powerlist(list 1 2)) = (() (1) (2)(1 2)
+  (powerset(list 1 2 3)) = (() (1) (2) (3) (1 2) (1 3) (2 3) ( 1 2 3))
 
 
 🇬🇧 English

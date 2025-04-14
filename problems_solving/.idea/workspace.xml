@@ -5,22 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e218af3-b64b-47ad-af21-f93391788359" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/EvenWithFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/EvenWithoutFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/SalaryAdjustNoMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/SalaryAdjustWithMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/adjust-salaries-map.rkt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/adjust-salaries-no-map.rkt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/even-elements-filter.rkt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/even-elements-no-filter.rkt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/PowerSetWithReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays/powerset_reduce.rkt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -48,7 +48,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/problems_for_java_racket_arrays" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PowerSetWithReduce">
     <configuration name="EvenWithFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problems_for_java_racket_arrays.EvenWithFilter" />
       <module name="problems_solving" />
@@ -62,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PowerSetWithReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowerSetWithReduce" />
+      <module name="problems_solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerSetWithReduce" />
         <item itemvalue="Application.EvenWithFilter" />
       </list>
     </recent_temporary>
