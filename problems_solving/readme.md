@@ -22,6 +22,16 @@ but the new salary must not exceed 100. That is, instead of 90 * 1.2, the new sa
 a. Do not use map
 b. Use map
 
+🇬🇧 English
+Task: Implement a powerset function using reduce.
+Definition:
+The powerset of a set A is the set of all possible subsets of A, including the empty set and A itself.
+In mathematical terms:
+powerset(A) = { X | X ⊆ A }
+Examples:
+powerset([1, 2]) → [[], [1], [2], [1, 2]]
+powerset([1, 2, 3]) → [[], [1], [2], [1, 2], [3], [1, 3], [2, 3], [1, 2, 3]]
+
 
 🇩🇪 Deutsch
 Aufgabe: Erstelle eine neue Liste mit den geraden Zahlen aus einer gegebenen Liste.
@@ -33,6 +43,19 @@ aber das neue Gehalt darf 100 nicht überschreiten. Also wird z. B. aus 90 * 1
 a. Verwenden Sie kein map
 b. Verwenden Sie map
 
+🇩🇪 Deutsch
+Aufgabe: Schreibe eine powerset-Funktion unter Verwendung von reduce.
+
+Definition:
+Die Potenzmenge einer Menge A ist die Menge aller möglichen Teilmengen von A, einschließlich der leeren Menge und der Menge A selbst.
+Formal:
+powerset(A) = { X | X ⊆ A }
+Beispiele:
+powerset([1, 2]) → [[], [1], [2], [1, 2]]
+powerset([1, 2, 3]) → [[], [1], [2], [1, 2], [3], [1, 3], [2, 3], [1, 2, 3]]
+
+
+
 
 🇷🇴 Română
 Sarcină: Creează o listă nouă cu elementele pare dintr-o listă dată.
@@ -43,4 +66,17 @@ Sarcină: Avem o listă cu salarii. Dacă un salariu este mai mic decât 100, se
 dar salariul nou nu poate depăși 100. Adică, în loc de 90 * 1.2, va deveni 100.
 a. Fără să folosești map
 b. Folosind map
+
+🇷🇴 Română
+Sarcină: Scrie o funcție powerset folosind reduce.
+
+Definiție:
+Mulțimea putere a unei mulțimi A este mulțimea tuturor submulțimilor posibile ale lui A, inclusiv mulțimea vidă și A însăși.
+Formal:
+powerset(A) = { X | X ⊆ A }
+Exemple:
+powerset([1, 2]) → [[], [1], [2], [1, 2]]
+powerset([1, 2, 3]) → [[], [1], [2], [1, 2], [3], [1, 3], [2, 3], [1, 2, 3]]
+
+
 
